@@ -1,4 +1,4 @@
-# covid-19-visualizer
+# covid-19-track
 
 Built a COVID-19 tracker that displays data on the number of infected, recoveries, and deaths due to COVID-19 around the world.
 
